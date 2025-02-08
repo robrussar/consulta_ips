@@ -1,5 +1,5 @@
 # consulta_ips
-Robo de consulta de ips
+Robo de consulta de ips (Python)
 
 Dica de Utilizade Geral.
 
