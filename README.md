@@ -1,7 +1,7 @@
 # consulta_ips
 Robo de consulta de ips
 
-Dica de utilizade Geral.
+Dica de Utilizade Geral.
 
 Neste projeto, a robotização se resume em copiar de uma lugar e colar em outro. 
 Pode ser utilizado para obter informações onde não temos acesso ao banco de dados ou para upar, imputar/inserir informações em um sistema manualmente. 
