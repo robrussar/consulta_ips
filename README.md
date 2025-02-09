@@ -12,6 +12,7 @@ Outra situação real de uso:
 Temos uma ferramenta chamada: REDETELECOM, onde é o cadastro oficial dos ip's dos modens, onde uma pessoa de determinada equipe faz a insersão manualmente um a um no momento que estão disponiveis. Corriqueiramente, essa atividade não tinha sido feita por falta de recursos (tempo), então modem saia para campo sem cadastro na ferramenta, impactanto o tempo de atividade do tecnico que teria que ligar para fazer a consulta ip, ação que não aconteceria caso o robo tivesse feito a atividade.  Nesse cenário, esse robo poderia fazer essa atividade sozinho.
 
 Vantagens da utilização de robos:
+
     * Não comete erros de digitação.
     * Não comete erros de click em lugares errados.
     * Não comete erros operacionais.
